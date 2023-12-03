@@ -2,7 +2,7 @@ class Dosen{
 	protected String nama;
 	
 	public void absen() {
-		System.out.println("Melakukan abses.");
+		System.out.println("Melakukan absen.");
 	}
 	
 	public String getNama() {
