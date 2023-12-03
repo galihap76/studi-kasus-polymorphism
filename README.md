@@ -37,8 +37,6 @@ public class Main {
 
 ## Polimorfisme Runtime (Overriding):
 
-Penjelasan mendalam mengenai overriding sebagai berikut :
-
 - Polimorfisme overriding memungkinkan kelas anak (subclass) untuk memberikan implementasi yang berbeda untuk metode yang sudah dideklarasikan di kelas induk (superclass).
 - Dengan menggunakan @Override di kelas anak, kita dapat memberikan implementasi yang sesuai dengan kebutuhan kelas anak.
 - Polimorfisme overriding terbatas pada metode. Ini memungkinkan kita untuk memanggil metode kelas induk dari kelas anak, tetapi hanya metode yang di-overide.
